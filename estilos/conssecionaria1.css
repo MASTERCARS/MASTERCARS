@@ -1,0 +1,235 @@
+*{
+
+	list-style:none;
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+body{
+	background-image: url('../imagens/fundo1.jpg');
+}
+
+.header1{
+	background-color:OrangeRed;
+		
+display:flex;
+justify-content: space-between;
+align-items:center;
+flex-wrap:wrap;
+padding:20px;
+
+}
+P{
+	color:white;
+	
+}
+a{
+	text-decoration:none;
+	color:white;
+	
+}
+.lg{
+	border:1px solid red;
+	background-color:red;
+	border-radius:15px;
+	
+	
+}
+.menu{
+	display:flex;
+	
+	
+}
+.menu li{
+	margin-left:20px;
+	
+	
+}
+
+.menu li a{
+	
+	display:block;
+	padding:10px;
+	
+	
+	
+}
+
+
+.login{
+	
+	background-color:#4F4F4F;
+	padding:20px;
+	border-radius:15px;
+	width:500px;
+text-align:center;	
+}
+
+.image{
+	display:flex;
+	width:500px;
+	height:400px;
+	margin:19px;
+	
+	
+}
+.finaci{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	text-align:center;
+	
+	
+}
+h4{
+	color:white;
+	
+	
+}
+h3{
+	color:orange;
+	text-align:center;
+}
+
+h2{
+	text-align:left;
+	
+}
+h1{
+	color:red;
+	align-items:center;
+	text-align:center;
+	
+}
+
+button{
+	background-color:DodgerBlue;
+	border:none;
+	padding:15px;
+	width:100%;
+	border-radius:10px;
+	color:white;
+	font-size:15px;
+	
+	
+	
+}
+
+button:hover{
+	background-color:DeepSkyBlue;
+	cursor:pointer;
+	text-decoration:none;
+	
+}
+button a{
+	
+	text-decoration:none;
+	
+}
+
+
+#bom{
+	
+	
+	width:100%;
+	height:400px;
+	
+	
+	
+	
+}
+
+
+.controle{
+	display:flex;
+	color:orange;
+	margin:90px;
+	text-align:center;
+	
+	
+}
+
+
+.rodape{
+	
+
+	
+	height:200px;
+	background-color:#4F4F4F;
+	display:block;
+	justify-content:space-between;
+	
+	
+
+	
+	
+	
+}
+.rode2{
+		display:flex;
+	justify-content:flex-end;
+	position:relative;
+	
+
+	
+}
+#logo2{
+	max-width:100%;
+	max-height:100%;
+	width:50px;
+	height:45px;
+	align-items:center;
+	
+	
+}
+.rod3{
+position:absolute;
+margin-left:60px;
+margin-top:10px;
+align-items:center;
+	
+	
+}
+
+
+.face{
+	width:45px;
+	height:40px;
+	
+
+}
+
+.insta{
+	width:45px;
+	height:40px;
+	max-height:100%;
+	max-width:100%;
+	
+	
+}
+#zap{
+	width:45px;
+	height:40px;
+	
+}
+h3{
+position:relative;
+margin-top:5%;	
+	
+}
+
+.quemsomos{
+	display:flex;
+	position:center;
+	align-items:center;
+	padding-left:600px;
+	
+	
+
+}
+.contato{
+	position:relative;
+	bottom:40px;
+	right:10px;
+	
+}

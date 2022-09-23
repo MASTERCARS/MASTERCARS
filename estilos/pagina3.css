@@ -1,0 +1,188 @@
+*{
+	list-style:none;
+	text-decoration:none;
+	padding:0;
+	margin:0;
+	
+}
+
+body{
+	background-image: url('../imagens/fundo1.jpg');
+}
+
+.header1{
+	background-color:OrangeRed;
+		
+display:flex;
+justify-content: space-between;
+align-items:center;
+flex-wrap:wrap;
+padding:20px;
+
+}
+.lg{
+	border:1px solid red;
+	background-color:red;
+	border-radius:15px;
+	
+	
+}
+
+.menu{
+	display:flex;
+	
+	
+}
+.menu li{
+	margin-left:20px;
+	
+	
+}
+
+.menu li a{
+	
+	display:block;
+	padding:10px;
+	color:white;
+}
+main{
+	display:flex;
+		justify-content:space-around;
+		align-items:center;
+	
+}
+
+
+h1{
+	color:red;
+	font-size:60px;
+	
+}
+h2{
+	color:white;
+	
+	
+}
+
+h3{
+	color:orange;
+	
+	
+}
+p{
+	color:white;
+	
+}
+.ses {
+	background-color:#FA8072;
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	
+	
+}
+.ses div{
+	text-align:center;
+	
+}
+.nossopla{
+	display:flex;
+	height:400px;
+	width:100%;
+	justify-content:space-between;
+	align-items:center;
+	
+	
+}
+
+
+
+.img1{
+	max-width:90%;
+	display:block;
+}
+
+
+.rodape{
+	
+
+	
+	height:200px;
+	background-color:#4F4F4F;
+	display:block;
+	justify-content:space-between;
+	
+	
+
+	
+	
+	
+}
+.rode2{
+		display:flex;
+	justify-content:flex-end;
+	position:relative;
+	
+
+	
+}
+#logo2{
+	max-width:100%;
+	max-height:100%;
+	width:50px;
+	height:45px;
+	align-items:center;
+	
+	
+}
+.rod3{
+position:absolute;
+margin-left:60px;
+margin-top:10px;
+align-items:center;
+	
+	
+}
+
+
+.face{
+	width:45px;
+	height:40px;
+	
+
+}
+
+.insta{
+	width:45px;
+	height:40px;
+	max-height:100%;
+	max-width:100%;
+	
+	
+}
+#zap{
+	width:45px;
+	height:40px;
+	
+}
+h3{
+position:relative;
+margin-top:5%;	
+	
+}
+
+.quemsomos{
+	display:flex;
+	position:center;
+	align-items:center;
+	padding-left:600px;
+	
+	
+
+}
+.contato{
+	position:relative;
+	bottom:40px;
+	right:10px;
+	
+}
